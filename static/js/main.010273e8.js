@@ -9178,7 +9178,7 @@
     (n.f = {}),
     (n.e = (e) =>
       Promise.all(Object.keys(n.f).reduce((t, r) => (n.f[r](e, t), t), []))),
-    (n.u = (e) => "static/js/" + e + ".4d201857.chunk.js"),
+    (n.u = (e) => "./static/js/" + e + ".4d201857.chunk.js"),
     (n.miniCssF = (e) => {}),
     (n.o = (e, t) => Object.prototype.hasOwnProperty.call(e, t)),
     (() => {
@@ -9285,13 +9285,13 @@
       var e = n(43),
         t = n(950);
       const r =
-        n.p + "static/media/squidxx.4fd0a6efa67b7694d121a305e83454c2.svg";
+        n.p + "././static/media/squidxx.4fd0a6efa67b7694d121a305e83454c2.svg";
       const l =
-        n.p + "static/media/squidtelee.adace64e686afe1ee05028ae23b3183f.svg";
+        n.p + "./static/media/squidtelee.adace64e686afe1ee05028ae23b3183f.svg";
       const a =
-        n.p + "static/media/squiddexx.7ec3dfaeb94253e8f4833c0dc0a20613.svg";
+        n.p + "./static/media/squiddexx.7ec3dfaeb94253e8f4833c0dc0a20613.svg";
       const o =
-        n.p + "static/media/reddit.b7bb65d743ea67fd76df8f085b42210f.svg";
+        n.p + "./static/media/reddit.b7bb65d743ea67fd76df8f085b42210f.svg";
       var i = n(579);
       const u = function () {
         return (0, i.jsx)("div", {
@@ -9388,13 +9388,13 @@
       };
       n.p;
       const s =
-        n.p + "static/media/squiddex.ad6e2f7534117234cb822e665e9413b4.svg";
+        n.p + "./static/media/squiddex.ad6e2f7534117234cb822e665e9413b4.svg";
       const c =
-        n.p + "static/media/squidtele.2b59aca9c0633097ca6a1b04cfbdc859.svg";
+        n.p + "./static/media/squidtele.2b59aca9c0633097ca6a1b04cfbdc859.svg";
       const f =
-        n.p + "static/media/squidtext.a019f2d62bd07a9ab96651d6b1c91036.svg";
+        n.p + "./static/media/squidtext.a019f2d62bd07a9ab96651d6b1c91036.svg";
       const d =
-        n.p + "static/media/squidx.94bde214edc869c6fcb7b3d632178d2c.svg";
+        n.p + "./static/media/squidx.94bde214edc869c6fcb7b3d632178d2c.svg";
       const p = function () {
         return (0, i.jsxs)("div", {
           className: "flex flex-col items-center px-4 bg-black py-10",
@@ -9427,23 +9427,24 @@
       };
       const m =
           n.p +
-          "static/media/cephalopodroll.82ac788efdde6931f838222d6b06f5f9.svg",
-        h = n.p + "static/media/squidwardheroleft.7a6fdd40e29d95eae88c.png";
+          "./static/media/cephalopodroll.82ac788efdde6931f838222d6b06f5f9.svg",
+        h = n.p + "./static/media/squidwardheroleft.7a6fdd40e29d95eae88c.png";
       const g =
-        n.p + "static/media/heroright.1b6b643a616344a192231f1b04b34cbf.svg";
+        n.p + "./static/media/heroright.1b6b643a616344a192231f1b04b34cbf.svg";
       const v =
-        n.p + "static/media/neptuneroll.f360d7d975eb219ef69c902f36102bcb.svg";
+        n.p + "./static/media/neptuneroll.f360d7d975eb219ef69c902f36102bcb.svg";
       const y =
-        n.p + "static/media/oceanroll.471e4eae2adbda9faeea146fcd60d40b.svg";
+        n.p + "./static/media/oceanroll.471e4eae2adbda9faeea146fcd60d40b.svg";
       const b =
-        n.p + "static/media/squidwardhero.2c3453f08ecc7725a4bb5fe221016331.svg";
+        n.p +
+        "./static/media/squidwardhero.2c3453f08ecc7725a4bb5fe221016331.svg";
       const w =
         n.p +
-        "static/media/squidwardhero2.6b0f0ec982c490b5b9ffddd80343e27a.svg";
+        "./static/media/squidwardhero2.6b0f0ec982c490b5b9ffddd80343e27a.svg";
       const k =
           n.p +
-          "static/media/jointelegram.5d7583604e59aac09b4278bf4a42c64a.svg",
-        x = n.p + "static/media/gradienthome.581c1ad6524a9a61cc98.png",
+          "./static/media/jointelegram.5d7583604e59aac09b4278bf4a42c64a.svg",
+        x = n.p + "./static/media/gradienthome.581c1ad6524a9a61cc98.png",
         S = (t) => {
           let { text: n } = t;
           const [r, l] = (0, e.useState)(!1);
@@ -9553,20 +9554,22 @@
         });
       };
       n.p;
-      const C = n.p + "static/media/chadwardbike.1c0b023c669f072a4906.png";
+      const C = n.p + "./static/media/chadwardbike.1c0b023c669f072a4906.png";
       const _ =
         n.p +
-        "static/media/buynowsquidward.d52bfe9adbd31d7d1d88d3cdab05567b.svg";
+        "./static/media/buynowsquidward.d52bfe9adbd31d7d1d88d3cdab05567b.svg";
       const N =
         n.p +
-        "static/media/aboutaquidward.738cbadf9edaaee8ef4438fef1ab3e8d.svg";
+        "./static/media/aboutaquidward.738cbadf9edaaee8ef4438fef1ab3e8d.svg";
       const z =
         n.p +
-        "static/media/squidwardbills.a11de3478be5a392024534d21cf042ee.svg";
-      const P = n.p + "static/media/text1.c576b3711ba47fd548a3afb83e7442ba.svg";
-      const T = n.p + "static/media/text2.36213287ca0527ab58fd989edfab5d48.svg";
+        "./static/media/squidwardbills.a11de3478be5a392024534d21cf042ee.svg";
+      const P =
+        n.p + "./static/media/text1.c576b3711ba47fd548a3afb83e7442ba.svg";
+      const T =
+        n.p + "./static/media/text2.36213287ca0527ab58fd989edfab5d48.svg";
       const L =
-        n.p + "static/media/motherroll.11ff5e4e4254ae13f5b81883b1e232c1.svg";
+        n.p + "./static/media/motherroll.11ff5e4e4254ae13f5b81883b1e232c1.svg";
       const j = function () {
         return (0, i.jsxs)("div", {
           className:
@@ -9611,15 +9614,15 @@
       };
       const O =
         n.p +
-        "static/media/bikinidollars2.da11616af83425cc0ea5f1f7a819e7db.svg";
+        "./static/media/bikinidollars2.da11616af83425cc0ea5f1f7a819e7db.svg";
       const M =
         n.p +
-        "static/media/buynowsquidwardd.e3577163de44809d3fecdc8013d8b4ab.svg";
+        "./static/media/buynowsquidwardd.e3577163de44809d3fecdc8013d8b4ab.svg";
       const R =
         n.p +
-        "static/media/contractsquidward.d4d984e003ef8ee7748003072e000de1.svg";
+        "./static/media/contractsquidward.d4d984e003ef8ee7748003072e000de1.svg";
       const F =
-        n.p + "static/media/readytobuy.21badeba8b216af97f6fc256b77051de.svg";
+        n.p + "./static/media/readytobuy.21badeba8b216af97f6fc256b77051de.svg";
       const D = function () {
         return (0, i.jsxs)("div", {
           className: "flex flex-col items-center px-4 relative overflow-hidden",
@@ -9651,13 +9654,14 @@
       };
       const I =
         n.p +
-        "static/media/roadmapsquidward.b84892762b4258500402c3561a9c616c.svg";
+        "./static/media/roadmapsquidward.b84892762b4258500402c3561a9c616c.svg";
       const U =
-        n.p + "static/media/squidwardrd1.36f124ac9897759d2a2edcee5b97474d.svg";
+        n.p +
+        "./static/media/squidwardrd1.36f124ac9897759d2a2edcee5b97474d.svg";
       const A =
           n.p +
-          "static/media/joinsquidward.d2df40677e195bcf3fc5aa6721b7bbb6.svg",
-        V = n.p + "static/media/sw.99bdd5e2f4c74f2fb34c.png";
+          "./static/media/joinsquidward.d2df40677e195bcf3fc5aa6721b7bbb6.svg",
+        V = n.p + "./static/media/sw.99bdd5e2f4c74f2fb34c.png";
       const $ = function () {
         return (0, i.jsxs)("div", {
           className: "flex flex-col items-center px-4 z-20",
@@ -9683,16 +9687,16 @@
       };
       const B =
         n.p +
-        "static/media/totalsquidward.db972ecc48caab89416a6892b35fd6f6.svg";
+        "./static/media/totalsquidward.db972ecc48caab89416a6892b35fd6f6.svg";
       const H =
         n.p +
-        "static/media/tokenomicssquidward.b17982b9ede56f95402a25b5e0b5e010.svg";
+        "./static/media/tokenomicssquidward.b17982b9ede56f95402a25b5e0b5e010.svg";
       const W =
         n.p +
-        "static/media/texessquidward.75f2eb4a4eef77ca7c0b541179a921fa.svg";
+        "./static/media/texessquidward.75f2eb4a4eef77ca7c0b541179a921fa.svg";
       const Q =
         n.p +
-        "static/media/liquiditysquidward.c8cd8d879986de49656de093ea1271d0.svg";
+        "./static/media/liquiditysquidward.c8cd8d879986de49656de093ea1271d0.svg";
       const q = function () {
         return (0, i.jsxs)("div", {
           className: "flex flex-col items-center px-4 z-20",
